@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Theme Brand Colors (Dark) -->
+    <color name="primary">#818CF8</color>
+    <color name="primary_variant">#6366F1</color>
+    <color name="on_primary">#0F172A</color>
+    <color name="primary_container">#1E1B4B</color>
+    <color name="on_primary_container">#E0E7FF</color>
+
+    <color name="secondary">#34D399</color>
+    <color name="secondary_variant">#10B981</color>
+    <color name="on_secondary">#064E3B</color>
+
+    <!-- Surfaces & Backgrounds (Dark Mode) -->
+    <color name="app_background">#0B0F19</color>
+    <color name="app_surface">#111827</color>
+    <color name="app_card">#1A2234</color>
+    <color name="app_card_stroke">#2A364F</color>
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="text_hint">#64748B</color>
+    <color name="divider">#1F293D</color>
+
+    <!-- Genre Colors (Dark Mode) -->
+    <color name="genre_novela">#F472B6</color>
+    <color name="genre_novela_bg">#3B142D</color>
+    <color name="genre_scifi">#22D3EE</color>
+    <color name="genre_scifi_bg">#0C324A</color>
+    <color name="genre_historia">#FBBF24</color>
+    <color name="genre_historia_bg">#422507</color>
+    <color name="genre_desarrollo">#34D399</color>
+    <color name="genre_desarrollo_bg">#093829</color>
+
+    <!-- Status Colors (Dark Mode) -->
+    <color name="status_por_leer">#94A3B8</color>
+    <color name="status_por_leer_bg">#1E293B</color>
+    <color name="status_leyendo">#60A5FA</color>
+    <color name="status_leyendo_bg">#172554</color>
+    <color name="status_terminado">#34D399</color>
+    <color name="status_terminado_bg">#064E3B</color>
+
+    <!-- Rating & Accents -->
+    <color name="rating_star">#FBBF24</color>
+    <color name="error_color">#F87171</color>
+    <color name="progress_bg">#253147</color>
+    <color name="accent_gradient_start">#6366F1</color>
+    <color name="accent_gradient_end">#A855F7</color>
+</resources>

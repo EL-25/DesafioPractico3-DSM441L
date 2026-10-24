@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LectorPro</string>
+    <string name="genre_novela">Novela</string>
+    <string name="genre_ciencia_ficcion">Ciencia ficción</string>
+    <string name="genre_historia">Historia</string>
+    <string name="genre_desarrollo_personal">Desarrollo personal</string>
+
+    <string name="status_por_leer">Por leer</string>
+    <string name="status_leyendo">Leyendo</string>
+    <string name="status_terminado">Terminado</string>
+</resources>

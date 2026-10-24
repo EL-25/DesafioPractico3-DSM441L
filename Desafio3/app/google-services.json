@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "517526998183",
+    "project_id": "registroyautenticacion-dbcb5",
+    "storage_bucket": "registroyautenticacion-dbcb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517526998183:android:ba75c1db600f1915015f82",
+        "android_client_info": {
+          "package_name": "com.example.desafio3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517526998183-ai8011k43rov7ede1drirm10v9hvpqtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATKhYAMnKxGEj2SroFEfeJ90mtWDXi9pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517526998183-ai8011k43rov7ede1drirm10v9hvpqtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517526998183:android:ba75c1db600f1915015f82",
+        "android_client_info": {
+          "package_name": "com.example.procesoregistroyautenticacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517526998183-ai8011k43rov7ede1drirm10v9hvpqtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATKhYAMnKxGEj2SroFEfeJ90mtWDXi9pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517526998183-ai8011k43rov7ede1drirm10v9hvpqtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
